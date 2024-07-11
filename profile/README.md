@@ -1,7 +1,7 @@
-# 🧠 Media Comprehension Lab
-<p align="center">
-  <img src="logo_black.png" alt="Media Comprehension Lab" width="150"/>
-</p>
+<div align="center">
+  <img src="logo_black.png" alt="Media Comprehension Lab Logo" width="50" style="vertical-align: middle;"/>
+  <span style="font-size: 24px; font-weight: bold; vertical-align: middle;">Media Comprehension Lab</span>
+</div>
 > Decoding how humans understand and interact with media
 
 ## 🎯 Our Research Focus
