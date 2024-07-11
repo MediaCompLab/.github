@@ -1,7 +1,15 @@
-<div align="center">
-  <img src="logo_black.png" alt="Media Comprehension Lab Logo" width="50" style="vertical-align: middle;"/>
-  <span style="font-size: 24px; font-weight: bold; vertical-align: middle;">Media Comprehension Lab</span>
-</div>
+
+
+<p align="center">
+  <img src="logo_black.png" alt="Media Comprehension Lab Logo" width="100"/>
+</p>
+<h1 align="center">
+  <span style="color: #FF0000;">M</span><span style="color: #FF7F00;">e</span><span style="color: #FFFF00;">d</span><span style="color: #00FF00;">i</span><span style="color: #0000FF;">a</span> 
+  <span style="color: #8B00FF;">C</span><span style="color: #FF0000;">o</span><span style="color: #FF7F00;">m</span><span style="color: #FFFF00;">p</span><span style="color: #00FF00;">r</span><span style="color: #0000FF;">e</span><span style="color: #8B00FF;">h</span><span style="color: #FF0000;">e</span><span style="color: #FF7F00;">n</span><span style="color: #FFFF00;">s</span><span style="color: #00FF00;">i</span><span style="color: #0000FF;">o</span><span style="color: #8B00FF;">n</span> 
+  <span style="color: #FF0000;">L</span><span style="color: #FF7F00;">a</span><span style="color: #FFFF00;">b</span>
+</h1>
+
+
 > Decoding how humans understand and interact with media
 
 ## 🎯 Our Research Focus
