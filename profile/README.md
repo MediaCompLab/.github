@@ -1,4 +1,4 @@
-# 🧠💻 Media Comprehension Lab
+# 🧠 Media Comprehension Lab
 <p align="center">
   <img src="logo_black.png" alt="Media Comprehension Lab" width="150"/>
 </p>
