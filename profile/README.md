@@ -1,6 +1,6 @@
 # 🧠💻 Media Comprehension Lab
 
-<p align="center">
+<p align="left">
   <img src="logo_black.png" alt="Media Comprehension Lab" width="200"/>
 </p>
 
