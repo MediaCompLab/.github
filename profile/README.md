@@ -1,5 +1,7 @@
 # 🧠💻 Media Comprehension Lab
 
+![Media Comprehension Lab Logo](logo_black.png)
+
 > Where minds meet media, and understanding unfolds
 
 ## 🔬 About Us
@@ -33,14 +35,7 @@ We investigate how adults process information across different media types, expl
 We study the diverse factors that contribute to an individual's success in processing media, with implications for educational and professional preparedness.
 
 ### 3. 🗣️🖥️ Constructed Responses
-```python
-def analyze_responses(responses):
-    insights = computational_analysis(responses)
-    return insights
-
-media_understanding = analyze_responses(constructed_responses)
-```
-We employ computational methodologies to analyze how adults articulate their understanding of various media through writing or speech.
+We employ innovative methodologies to analyze how adults articulate their understanding of various media through writing or speech, gaining insights into cognitive processes.
 
 ## 🚀 Join Us in Our Quest
 
@@ -50,6 +45,6 @@ Whether you're a fellow researcher, a curious student, or an industry partner, w
 
 <div align="center">
 
-📧 Contact | 🔗 Website | 📚 Publications
+📧 Contact: jmagliano@gsu.edu | 🔗 Website: [mediacomplab.com](http://mediacomplab.com) | 📚 [Publications](https://mediacomplab.com/publications/)
 
 </div>
