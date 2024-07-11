@@ -1,7 +1,7 @@
 # 🧠💻 Media Comprehension Lab
 
 <p align="center">
-  <img src="logo_placeholder.png" alt="Media Comprehension Lab Logo" width="200"/>
+  <img src="logo_black.png" alt="Media Comprehension Lab" width="200"/>
 </p>
 
 > Where minds meet media, and understanding unfolds
