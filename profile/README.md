@@ -3,7 +3,7 @@
 <p align="center">
   <img src="logo_black.png" alt="Media Comprehension Lab Logo" width="100"/>
 </p>
-<h1 align="center">MEDIA COMPREHENSION LAB</h1>
+<h1 align="center">Medua Comprehension Lab</h1>
 
 
 > Decoding how humans understand and interact with media
